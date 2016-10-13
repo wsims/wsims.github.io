@@ -25,17 +25,16 @@ nav {
 }
 
 nav ul {
-    list-style:none;
+
 }
 
-
 nav ul li{
-    display: inline;
+    float: right;
 }
 
 nav ul li a {
     font-family: Roboto-Regular;
-    color: #FFFFFF;
+    color: #404040;
     text-decoration: none;
     padding: 14px 15px;
 }
