@@ -1,5 +1,5 @@
 h1 {
-  font-family: "Patron Black", "Helvetica Neue", sans-serif;
+  font-family: "Roboto-Bold", sans-serif;
   font-size: 2rem;
   line-height: 1;
   margin: 0 0 0.66667rem;
@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Maison Neue Mono", monospace;
+  font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
   font-weight: normal;
   margin: 0.66667rem 0 0.33333rem;
