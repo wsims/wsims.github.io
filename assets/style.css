@@ -36,7 +36,7 @@ nav ul {
 
 
 nav ul li{
-  display: inline;
+  display: inline-block;
 }
 
 nav ul li a {
@@ -44,5 +44,6 @@ nav ul li a {
   color: #404040;
   text-decoration: none;
   padding: 14px 15px;
-  float: left;
+  float: right;
+  display: inline-block;
 }
