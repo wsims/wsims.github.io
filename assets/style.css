@@ -17,13 +17,17 @@ h2 {
   font-size: 150%;
 }
 
+body {
+  margin-top: 0;
+}
+
 .introWrapper {
   width: 100%;
 }
 
 
 .wrapper {
-    max-width: 970px;
+    max-width: 65%;
     margin: 0 auto;
 }
 
