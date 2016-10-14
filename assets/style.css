@@ -20,13 +20,18 @@ h2 {
 nav {
   width: 100%;
   display: block;
-  float: left;
   margin-right: 40px;
-  margin-top: 40px;
+  margin-top: 30px;
 }
 
 nav ul {
+  display: block;
   list-style:none;
+  -webkit-margin-before: 1em;
+  -webkit-margin-after: 1em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  -webkit-padding-start: 40px;
 }
 
 
@@ -39,4 +44,5 @@ nav ul li a {
   color: #404040;
   text-decoration: none;
   padding: 14px 15px;
+  float: left;
 }
