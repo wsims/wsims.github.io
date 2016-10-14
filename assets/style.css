@@ -98,9 +98,11 @@ a {
     box-sizing: border-box;
     color: white;
     font-size: 90%;
+    font-family: "Roboto-Regular", serif;
     text-align: center;
     padding: 15px;
     position: absolute;
+    width: 100%;
 }
 
 .projectgrid {
