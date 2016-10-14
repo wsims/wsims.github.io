@@ -17,7 +17,7 @@ h2 {
   font-size: 150%;
 }
 .wrapper {
-    max-width: calc(700px + (1.6rem*2));
+    max-width: 970px;
     margin: 0 auto;
 }
 
