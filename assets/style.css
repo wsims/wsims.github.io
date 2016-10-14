@@ -32,13 +32,6 @@ h2 {
     overflow: auto;
 }
 
-@media only screen and (min-width: 500px) {
-    .header {
-        padding-top:1.6rem;
-        padding-bottom: 1.6rem;
-    }
-}
-
 .header a {
     -webkit-transition: color 0.2s ease;
     transition: color 0.2s ease
