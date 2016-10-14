@@ -57,7 +57,7 @@ h2 {
 .header .nav a {
     color: #83869F;
     display: block;
-    position: relative
+    position: relative;
 }
 
 .header .nav a:hover,.header .nav a.active {
@@ -75,6 +75,11 @@ h2 {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%)
+}
+
+a {
+    color: inherit;
+    text-decoration: none
 }
 
 /*nav {
