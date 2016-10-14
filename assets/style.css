@@ -26,6 +26,7 @@ h2 {
     z-index: 1;
     font-weight: 500;
     line-height: 1.6rem
+    margin:0;
 }
 
 @media only screen and (min-width: 500px) {
@@ -58,6 +59,7 @@ h2 {
     color: #83869F;
     display: block;
     position: relative;
+    font-family: "Roboto-Regular", sans-serif;
 }
 
 .header .nav a:hover,.header .nav a.active {
