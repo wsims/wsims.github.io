@@ -71,6 +71,7 @@ body {
 }
 
 .header .nav a {
+    transform: translateZ(0);
     color: #83869F;
     display: block;
     position: relative;
