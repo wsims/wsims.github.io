@@ -23,14 +23,16 @@ body {
 
 .introWrapper {
   width: 100%;
-  padding-top: 10%;
-  padding-bottom: 10%;
+  padding-top: 20%;
+  padding-bottom: 20%;
 }
 
 
 .wrapper {
     max-width: 65%;
     margin: 0 auto;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 .header {
