@@ -17,7 +17,56 @@ h2 {
   font-size: 150%;
 }
 
-nav {
+.header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    z-index: 1;
+    font-weight: 500;
+    line-height: 1.6rem
+}
+
+.header a {
+    -webkit-transition: color 0.2s ease;
+    transition: color 0.2s ease
+}
+
+.header .logo {
+    float: left
+}
+
+.header .nav {
+    float: right
+}
+
+.header .nav li {
+    float: left;
+    margin-left: 1em
+}
+
+.header .nav a {
+    color: #83869F;
+    display: block;
+    position: relative
+}
+
+.header .nav a:hover,.header .nav a.active {
+    color: #40445E
+}
+
+.header .nav a.active:after {
+    content: '';
+    background: #FF5A5A;
+    width: 4px;
+    height: 4px;
+    border-radius: 100%;
+    display: block;
+    position: absolute;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%)
+}
+
+/*nav {
   width: 100%;
   display: block;
   margin-right: 40px;
@@ -37,6 +86,7 @@ nav ul {
 
 nav ul li{
   display: inline-block;
+  float right;
 }
 
 nav ul li a {
@@ -47,3 +97,4 @@ nav ul li a {
   float: right;
   display: inline-block;
 }
+*/
