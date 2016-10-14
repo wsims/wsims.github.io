@@ -128,13 +128,15 @@ a {
 .projectgrid a {
 	background-color:#eeedeb;
 	background-size:100%;
-	border:1px solid #eeedeb;
 	width: 280px;
 	height: 100%;
+  padding-left: 10px;
+  padding-right: 10px;
 	display: block;
 	position:relative;
 	overflow:hidden;
 	text-decoration:none;
+  text-align: center;
 }
 
 .projectgrid a div:before {
