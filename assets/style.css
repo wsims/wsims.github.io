@@ -18,6 +18,11 @@ h2 {
   color: #40445E;
 }
 
+h5 {
+  font-family: "Roboto-Regular", serif;
+  color: #83869;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -95,9 +100,7 @@ a {
 .footer {
     bottom: 0px;
     box-sizing: border-box;
-    color: #83869;
     font-size: 90%;
-    font-family: "Roboto-Regular", serif;
     text-align: center;
     padding: 15px;
     position: absolute;
