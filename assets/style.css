@@ -83,7 +83,6 @@ body {
 
 .header .nav a.active:after {
     content: '';
-    background: #FF5A5A;
     width: 4px;
     height: 4px;
     border-radius: 100%;
@@ -95,7 +94,6 @@ body {
 }
 
 a {
-    color: inherit;
     text-decoration: none;
 }
 
