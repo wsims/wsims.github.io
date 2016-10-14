@@ -117,7 +117,7 @@ a {
 }
 
 .projectgrid li {
-	display:block;
+	display:inline-block;
 	float:left;
 	margin: 0px;
 	width: 280px;
