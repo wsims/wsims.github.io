@@ -3,7 +3,7 @@ h1 {
   font-size: 2rem;
   line-height: 1;
   margin: 0 0 0.66667rem;
-  padding-top: 0.66667rem;
+  padding-top: 1.66667rem;
   text-align: center;
   font-size: 360%;
 }
@@ -18,7 +18,8 @@ h2 {
 }
 
 body {
-  margin-top: 0;
+  margin: 0;
+  padding: 0;
 }
 
 .introWrapper {
