@@ -27,6 +27,7 @@ h2 {
     line-height: 1.6rem;
     margin:0;
     box-shadow: 0 1px 0 rgba(0,0,0,0.1);
+    width: 100%;
     overflow: auto;
 }
 
@@ -69,7 +70,7 @@ h2 {
     position: absolute;
     left: 50%;
     -webkit-transform: translateX(-50%);
-    transform: translateX(-50%)
+    transform: translateX(-50%);
 }
 
 a {
