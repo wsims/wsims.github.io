@@ -6,7 +6,6 @@ h1 {
   text-align: center;
   font-size: 360%;
   color: #40445E;
-  letter-spacing: 3px
 }
 
 h2 {
@@ -17,15 +16,14 @@ h2 {
   text-align: center;
   font-size: 150%;
   color: #40445E;
-  letter-spacing: 3px
 }
 
 h5 {
-  font-family: "Roboto-Thin", serif;
+  font-family: "Roboto-Regular", serif;
   color: #83869F;
   font-size: 13px;
   font-weight: lighter;
-  letter-spacing: 3px
+  letter-spacing: 1px
 }
 
 body {
