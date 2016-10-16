@@ -123,12 +123,12 @@ body {
 }
 
 .footer .copyright{
-    float: left;
+    display: inline-block;
 }
 .footer .links{
     display: inline-block;
-    float: right;
-    height: 50px;
+    text-align: center;
+    height: 30px;
     width: auto;
 }
 
