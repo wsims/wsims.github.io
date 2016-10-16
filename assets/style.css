@@ -168,6 +168,11 @@ a {
   font-family: "Roboto-Regular", serif;
 }
 
+.projectgrid a p{
+	font-size: 13px;
+  font-family: "Roboto-Regular", serif;
+}
+
 .projectgrid a div{
 	color:#fff;
 	background:rgba(45,45,45,.97);
