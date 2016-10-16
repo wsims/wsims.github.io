@@ -60,8 +60,8 @@ body {
 }
 
 .header a {
-    -webkit-transition: color 0.2s linear;
-    transition: color 0.2s linear;
+  /*  -webkit-transition: color 0.2s ease;
+    transition: color 0.2s ease; */
 }
 
 .header a:visited {
