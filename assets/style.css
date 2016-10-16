@@ -135,6 +135,7 @@ a {
 .footer .links{
     display: inline-block;
     text-align: center;
+    padding-left: 5px;
 }
 
 i.fa {
