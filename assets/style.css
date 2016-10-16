@@ -108,7 +108,7 @@ body {
     display: block;
     position: absolute;
     left: 50%;
-    /*-webkit-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
     transform: translateX(-50%);*/
 }
 
@@ -146,7 +146,6 @@ body {
 }
 
 .projectgrid a {
-/*	background-color:#eeedeb;*/
 	background-size:100%;
 	width: 280px;
 	height: 100%;
