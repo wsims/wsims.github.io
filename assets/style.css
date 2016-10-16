@@ -61,7 +61,7 @@ body {
 
 .header a {
     -webkit-transition: color 0.2s ease;
-    transition: color 0.2s ease
+    transition: color 0.2s ease;
 }
 
 .header a:visited {
