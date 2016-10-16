@@ -111,7 +111,7 @@ a {
 }
 
 .contentWrapper{
-  margin-left: 18.75%;
+  margin-left: 17.36%;
 }
 
 .projectgrid {
@@ -122,7 +122,7 @@ a {
 
 .projectgrid li {
 	display: inline-block;
-	text-align: center;
+	float: left;
 	margin: 0px;
 	width: 280px;
 	height: 280px;
