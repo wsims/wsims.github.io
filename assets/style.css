@@ -107,6 +107,11 @@ a {
     text-decoration: none;
 }
 
+a:visited{
+	color: #83869F;
+	text-decoration: none;
+}
+
 .footer {
     bottom: 0px;
     box-sizing: border-box;
