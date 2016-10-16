@@ -43,6 +43,11 @@ body {
     margin: 0 auto;
 }
 
+.wrapperFooter {
+    max-width: 65%;
+    margin: 0 auto;
+}
+
 .header {
     z-index: 1;
     font-weight: 500;
@@ -83,7 +88,7 @@ a {
 
 .header .nav li {
     list-style: none;
-    
+    margin-left: 1em;
 }
 
 .header .nav a {
