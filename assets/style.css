@@ -1,5 +1,25 @@
+@font-face{
+    font-family: "Roboto-Bold";
+    src: url('Roboto-Bold.ttf');
+}
+
+@font-face{
+    font-family: "Roboto-Regular";
+    src: url('Roboto-Regular.ttf');
+}
+
+@font-face{
+    font-family: "Roboto-Light";
+    src: url('Roboto-Light.ttf');
+}
+
+@font-face{
+    font-family: "Roboto Mono";
+    src: url('RobotoMono-Regular.ttf');
+}
+
 h1 {
-  font-family: "Roboto-Bold", sans-serif !important;
+  font-family: "Roboto-Bold", sans-serif;
   font-size: 2rem;
   line-height: 1;
   margin: 0 0 0.66667rem;
@@ -10,7 +30,7 @@ h1 {
 }
 
 h2 {
-  font-family: "Roboto Mono", monospace !important;
+  font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
   font-weight: normal;
   margin: 0.66667rem 0 0.33333rem;
@@ -21,7 +41,7 @@ h2 {
 }
 
 h5 {
-  font-family: "Roboto-Light", serif !important;
+  font-family: "Roboto-Light", serif;
   color: #212221;
   opacity: .7;
   font-size: 13px;
@@ -135,7 +155,7 @@ a {
     padding-bottom: 15px;
     position: relative;
     width: 100%;
-    font-family: "Roboto-Regular", serif !important;
+    font-family: "Roboto-Regular", serif;
 }
 
 .footer .copyright{
@@ -222,12 +242,12 @@ i.fa-file-pdf-o:hover {
 
 .projectgrid a h3{
 	font-size:18px;
-  font-family: "Roboto-Regular", serif !important;
+  font-family: "Roboto-Regular", serif;
 }
 
 .projectgrid a p{
 	font-size: 13px;
-  font-family: "Roboto-Regular", serif !important;
+  font-family: "Roboto-Regular", serif;
 }
 
 .projectgrid a div{
