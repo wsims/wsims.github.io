@@ -69,7 +69,6 @@ body {
 .wrapperFooter {
     max-width: 65%;
     margin: 0 auto;
-    position: relative;
 }
 
 .header {
@@ -154,7 +153,7 @@ a {
     font-size: 90%;
     padding-top: 15px;
     padding-bottom: 15px;
-    position: absolute;
+    position: relative;
     width: 100%;
     font-family: "Roboto-Regular", serif;
 }
