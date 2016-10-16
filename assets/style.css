@@ -164,7 +164,8 @@ a {
 }
 
 .projectgrid a h3{
-	font-size:24px;
+	font-size:18px;
+  font-family: "Roboto-Regular", serif;
 }
 
 .projectgrid a div{
