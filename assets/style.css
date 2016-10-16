@@ -116,9 +116,20 @@ a {
 	min-height:200px;
 }
 
+.main-container {
+  float: left;
+  position: relative;
+  left: 50%;
+}
+.fixer-container {
+  float: left;
+  position: relative;
+  left: -50%;
+}
+
 .projectgrid li {
 	display:block;
-	float:left;
+	/*float:left;*/
 	margin: 0px;
 	width: 280px;
 	height: 280px;
