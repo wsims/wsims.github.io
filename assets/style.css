@@ -5,7 +5,7 @@ h1 {
   margin: 0 0 0.66667rem;
   text-align: center;
   font-size: 360%;
-  color: #7662AC;
+  color: #212221;
 }
 
 h2 {
@@ -15,12 +15,13 @@ h2 {
   margin: 0.66667rem 0 0.33333rem;
   text-align: center;
   font-size: 150%;
-  color: #7662AC;
+  color: #212221;
 }
 
 h5 {
   font-family: "Roboto-Light", serif;
-  color: #83869F;
+  color: #212221;
+  opacity: .7;
   font-size: 13px;
   font-weight: lighter;
 }
@@ -141,7 +142,7 @@ a {
 }
 
 i.fa {
-  color: #7662AC;
+  color: #212221;
   opacity: 0.7;
   font-size: 30px;
   padding-left: 5px;
@@ -149,7 +150,7 @@ i.fa {
   text-decoration: none;
 }
 i.fa:hover {
-  color: #7662AC;
+  color: #212221;
   opacity: 1;
 }
 
