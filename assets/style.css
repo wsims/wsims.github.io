@@ -64,6 +64,10 @@ body {
     transition: color 0.2s ease
 }
 
+.header a:visited {
+    color: #83869F;
+}
+
 .header .logo {
     float: left
 }
@@ -91,6 +95,7 @@ body {
 }
 
 .header .nav a.active:after {
+    color#83869F;
     content: '';
     width: 4px;
     height: 4px;
