@@ -90,6 +90,10 @@ body {
     font-family: "Roboto-Regular", sans-serif;
 }
 
+.header .nav a:visited {
+    color: #83869F;
+}
+
 .header .nav a:hover,.header .nav a.active {
     color: #40445E;
 }
@@ -105,16 +109,6 @@ body {
     left: 50%;
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-a:visited{
-	color: white;
-	text-decoration: none;
 }
 
 .footer {
