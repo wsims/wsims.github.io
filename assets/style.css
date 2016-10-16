@@ -129,15 +129,13 @@ body {
 }
 .footer .links{
     display: inline-block;
-    height: 20px;
-    width: auto;
     text-align: center;
 }
 
 i.fa {
   color: #6149A2;
   opacity: 0.7;
-  font-size: 16px;
+  font-size: 20px;
   padding-left: 5px;
   padding-right: 5px;
   text-decoration: none;
