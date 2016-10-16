@@ -128,9 +128,6 @@ a {
 	width: 280px;
 	height: 280px;
 	margin-bottom: 20px;
-  padding-left: 20px:
-  padding-right: 20px;
-  margin-bottom: 30px:
 }
 
 .projectgrid a {
@@ -138,8 +135,9 @@ a {
 	background-size:100%;
 	width: 280px;
 	height: 100%;
-  padding-left: 10px;
-  padding-right: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 30px;
 	display: block;
 	position:relative;
 	overflow:hidden;
