@@ -122,12 +122,10 @@ a {
     font-size: 90%;
     padding-bottom: 15px;
     position: absolute;
-    width: 65%;
-    margin: 0 auto;
     font-family: "Roboto-Light", serif;
 }
 
-.footer .copyright{
+.footer .copyright {
     display: inline-block;
     float: left;
 }
