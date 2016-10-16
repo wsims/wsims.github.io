@@ -134,6 +134,26 @@ body {
     text-align: center;
 }
 
+i.fa {
+  color: white;
+  font-size: 16px;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+}
+i.fa:hover {
+  color: #0099ff;
+}
+
+i.fa-file-pdf-o {
+  color: black;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+i.fa-file-pdf-o:hover {
+  color: black;
+}
+
 .contentWrapper{
   text-align: center;
 }
