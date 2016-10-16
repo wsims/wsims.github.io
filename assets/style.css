@@ -60,9 +60,8 @@ body {
 }
 
 .header a {
-    -webkit-transition: color 0.2s ease;
-    transition: color 0.2s ease;
-    -webkit-transform: translateZ(0);
+    -webkit-transition: color 0.2s linear;
+    transition: color 0.2s linear;
 }
 
 .header a:visited {
