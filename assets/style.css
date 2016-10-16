@@ -120,6 +120,7 @@ body {
     position: relative;
     width: 100%;
     font-family: "Roboto-Light", serif;
+    overflow: auto;
 }
 
 .footer .copyright{
