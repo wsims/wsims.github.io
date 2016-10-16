@@ -62,6 +62,7 @@ body {
 .header a {
     -webkit-transition: color 0.2s ease;
     transition: color 0.2s ease;
+    -webkit-transform: translateZ(0);
 }
 
 .header a:visited {
@@ -88,7 +89,6 @@ body {
     position: relative;
     text-decoration: none;
     font-family: "Roboto-Regular", sans-serif;
-    -webkit-backface-visibility: hidden;
 }
 
 .header .nav a:visited {
