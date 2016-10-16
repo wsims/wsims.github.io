@@ -110,6 +110,11 @@ a {
     width: 100%;
 }
 
+.contentWrapper{
+  display: block;
+  margin: 0 auto;
+}
+
 .projectgrid {
 	display: block;
 	margin: 0;
