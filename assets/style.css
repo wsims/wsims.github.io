@@ -135,14 +135,15 @@ body {
 }
 
 i.fa {
-  color: white;
+  color: #6149A2;
+  opacity: 0.7;
   font-size: 16px;
   padding-left: 5px;
   padding-right: 5px;
   text-decoration: none;
 }
 i.fa:hover {
-  color: #0099ff;
+  color: #6149A2;
 }
 
 i.fa-file-pdf-o {
