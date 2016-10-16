@@ -132,7 +132,7 @@ a {
     box-sizing: border-box;
     font-size: 90%;
     padding-bottom: 15px;
-    position: absolute;
+    position: relative;
     width: 100%;
     font-family: "Roboto-Regular", serif;
 }
