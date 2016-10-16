@@ -122,19 +122,18 @@ a {
     font-size: 90%;
     padding-bottom: 15px;
     position: absolute;
-    width: 100%;
+    width: 65%;
+    margin: 0 auto;
     font-family: "Roboto-Light", serif;
 }
 
 .footer .copyright{
-    margin-left: 40px;
     display: inline-block;
     float: left;
 }
 .footer .links{
     display: inline-block;
     float: right;
-    margin-right: 40px;
 }
 
 i.fa {
