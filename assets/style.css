@@ -122,6 +122,10 @@ body {
     font-family: "Roboto-Light", serif;
 }
 
+.footer .copyright{
+    float: left;
+}
+
 .contentWrapper{
   text-align: center;
 }
