@@ -59,6 +59,11 @@ body {
     background: linear-gradient(to bottom,  rgba(244,244,244,1) 0%,rgba(241,241,241,1) 30%,rgba(234,234,234,0.88) 100%); /* W3C */
 }
 
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
 .header a {
   /*  -webkit-transition: color 0.2s ease;
     transition: color 0.2s ease; */
