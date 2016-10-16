@@ -129,8 +129,7 @@ body {
 }
 .footer .links{
     display: inline-block;
-    text-align: center;
-    height: 10px;
+    height: 20px;
     width: auto;
 }
 
