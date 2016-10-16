@@ -113,11 +113,13 @@ a {
 .contentWrapper{
   display: block;
   margin: 0 auto;
+  left -50%;
 }
 
 .projectgrid {
 	display: block;
 	margin: 0;
+  left 50%;
 	min-height:200px;
 }
 
