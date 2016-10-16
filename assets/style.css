@@ -118,11 +118,11 @@ a {
 	display: block;
 	margin: 0;
 	min-height:200px;
+  text-align: center;
 }
 
 .projectgrid li {
 	display: inline-block;
-	float: left;
 	margin: 0px;
 	width: 280px;
 	height: 280px;
