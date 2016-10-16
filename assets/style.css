@@ -5,7 +5,7 @@ h1 {
   margin: 0 0 0.66667rem;
   text-align: center;
   font-size: 360%;
-  color: #40445E;
+  color: #7662AC;
 }
 
 h2 {
@@ -15,7 +15,7 @@ h2 {
   margin: 0.66667rem 0 0.33333rem;
   text-align: center;
   font-size: 150%;
-  color: #40445E;
+  color: #7662AC;
 }
 
 h5 {
@@ -128,7 +128,7 @@ a {
     padding-bottom: 15px;
     position: absolute;
     width: 100%;
-    font-family: "Roboto-Light", serif;
+    font-family: "Roboto-Regular", serif;
 }
 
 .footer .copyright{
