@@ -126,7 +126,10 @@ body {
     float: left;
 }
 .footer .links{
-    float: left;
+    display: inline-block;
+    float: right;
+    height: 50px;
+    width: auto;
 }
 
 .contentWrapper{
