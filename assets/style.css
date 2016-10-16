@@ -118,12 +118,11 @@ a {
 
 .projectgrid li {
 	display:block;
-	float:left;
+	text-align: center;
 	margin: 0px;
 	width: 280px;
 	height: 280px;
 	margin-bottom: 20px;
-  align-content: center;
 }
 
 .projectgrid a {
