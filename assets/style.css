@@ -106,7 +106,7 @@ a {
     font-size: 90%;
     text-align: center;
     padding: 15px;
-    position: absolute;
+    position: relative;
     width: 100%;
 }
 
@@ -120,6 +120,7 @@ a {
 	min-height:200px;
   padding-right: 40px;
   text-align: center;
+  position: fixed;
 }
 
 .projectgrid li {
