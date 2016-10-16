@@ -124,11 +124,9 @@ body {
 
 .footer .copyright{
     display: inline-block;
-    text-align: center;
 }
 .footer .links{
     display: inline-block;
-    text-align: center;
     height: 30px;
     width: auto;
 }
@@ -179,8 +177,8 @@ body {
 	bottom:10px;
 	right:10px;
 	-moz-border-radius:8px;
-    -webkit-border-radius:8px;
-    border-radius:8px;
+  -webkit-border-radius:8px;
+  border-radius:8px;
 	z-index:100;
 }
 
