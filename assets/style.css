@@ -144,6 +144,7 @@ i.fa {
 }
 i.fa:hover {
   color: #6149A2;
+  opacity: 1;
 }
 
 i.fa-file-pdf-o {
