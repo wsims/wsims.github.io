@@ -127,12 +127,14 @@ a {
 }
 
 .footer .copyright{
+    margin-left: 40px;
     display: inline-block;
     float: left;
 }
 .footer .links{
     display: inline-block;
     float: right;
+    margin-right: 40px;
 }
 
 i.fa {
