@@ -124,9 +124,11 @@ body {
 
 .footer .copyright{
     display: inline-block;
+    text-align: center;
 }
 .footer .links{
     display: inline-block;
+    text-align: center;
     height: 30px;
     width: auto;
 }
