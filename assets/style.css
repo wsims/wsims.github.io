@@ -60,8 +60,9 @@ body {
 }
 
 .header a {
-    -webkit-transition: color 0.2s ease;
+    /*-webkit-transition: color 0.2s ease;
     transition: color 0.2s ease
+    */
 }
 
 .header a:visited {
@@ -107,8 +108,8 @@ body {
     display: block;
     position: absolute;
     left: 50%;
-    -webkit-transform: translateX(-50%);
-    transform: translateX(-50%);
+    /*-webkit-transform: translateX(-50%);
+    transform: translateX(-50%);*/
 }
 
 .footer {
