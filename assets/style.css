@@ -180,6 +180,8 @@ a {
 }
 
 .footer {
+    position: relative;
+    bottom: 0px;
     display: block;
     box-sizing: border-box;
     font-size: 90%;
