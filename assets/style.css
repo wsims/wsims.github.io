@@ -50,7 +50,6 @@ h2 {
   font-size: 200%;
   color: #212221;
   opacity: .9;
-  padding-top: 7%;
 }
 
 
@@ -337,7 +336,6 @@ html.touch .projectgrid a div:before{
 }
 
 .project-overview {
-    border-bottom: 1px solid #DFE0E8
     box-sizing: border-box;
 }
 
