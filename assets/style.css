@@ -331,6 +331,13 @@ html.touch .projectgrid a div:before{
 	display:none;
 }
 
+.projectWrapper {
+  max-width: 65%;
+  margin: 0 auto;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
 .project-overview {
 /*    border-bottom: 1px solid #DFE0E8*/
 }
