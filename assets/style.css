@@ -172,7 +172,7 @@ a {
 }
 
 .footer {
-    bottom: 0px;
+    margin-bottom: 1em;
     box-sizing: border-box;
     font-size: 90%;
     padding-top: 15px;
