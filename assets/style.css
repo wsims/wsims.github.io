@@ -363,7 +363,6 @@ html.touch .projectgrid a div:before{
 
 @media only screen and (min-width: 560px) {
     .project-challenge {
-        border-right:1px solid #DFE0E8;
         padding-left: 0
     }
 }
