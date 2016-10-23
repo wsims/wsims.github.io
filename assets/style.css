@@ -126,13 +126,7 @@ a {
 }
 
 .header a {
-  transform: translate(0);
-  color: #212221;
-  opacity: .7;
-  display: block;
-  position: relative;
-  text-decoration: none;
-  font-family: "Roboto-Regular", sans-serif;
+  
 }
 
 .header .nav. .logo a {
