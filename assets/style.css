@@ -134,11 +134,6 @@ a {
   text-decoration: none;
 }
 
-.header a {
-  color: #212221;
-  opacity: .9;
-}
-
 .header .logo a {
     display: inline-block;
     float: left
@@ -159,7 +154,7 @@ a {
     opacity: .9;
 }
 
-/*.header a.active:after {
+header a.active:after {
     color: #212221;
     opacity: .7;
     content: '';
@@ -172,7 +167,6 @@ a {
     -webkit-transform: translateX(-50%);
     transform: translateX(-50%);
 }
-*/
 
 .footer {
     position: absolute;
