@@ -160,6 +160,7 @@ a {
 
 .header a.active:after {
     color: #212221;
+    opacity: .7;
     content: '';
     width: 4px;
     height: 4px;
