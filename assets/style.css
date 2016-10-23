@@ -145,32 +145,21 @@ a {
 }
 
 .header .nav a {
-    display: inline-block;
-    float: right
-}
-
-/*.header .nav li {
-    list-style: none;
-    margin-left: 1em;
-}
-*/
-
-.header .nav a {
     float: right;
     display: inline-block;
 }
 
-.header .nav a:visited {
+.header a:visited {
     color: #212221;
     opacity: .7;
 }
 
-.header .nav a:hover,.header .nav a.active {
+.header a:hover,.header .nav a.active {
     color: #40445E;
     opacity: .9;
 }
 
-.header .nav a.active:after {
+.header a.active:after {
     color#83869F;
     content: '';
     width: 4px;
