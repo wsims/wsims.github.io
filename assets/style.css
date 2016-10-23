@@ -71,6 +71,14 @@ h5 {
   font-weight: lighter;
 }
 
+p {
+  font-family: "Roboto-Regular", serif;
+  color: #212221;
+  opacity: .7;
+  font-size: 13px;
+  font-weight: lighter;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -335,5 +343,12 @@ html.touch .projectgrid a div:before{
     .project-challenge {
         border-right:1px solid #DFE0E8;
         padding-left: 0
+    }
+}
+
+@media only screen and (min-width: 560px) {
+    .project-role {
+        padding-right:0;
+        box-shadow: -1px 0 0 #DFE0E8
     }
 }
