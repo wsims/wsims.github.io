@@ -126,9 +126,8 @@ body {
     text-decoration: none;
     font-family: "Roboto-Regular", sans-serif;
     list-style: none;
-    margin-left: 1em;
-    padding-top: 3%;
-    padding-bottom: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
 a {
