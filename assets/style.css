@@ -322,6 +322,17 @@ html.touch .projectgrid a div:before{
 	display:none;
 }
 
+.project-overview {
+    border-bottom: 1px solid #DFE0E8
+}
+
+.project-overview h4 {
+    margin-bottom: 0.5em
+}
+
+.project-overview p {
+    line-height: 1.4
+}
 
 .project-info {
     padding: 1.6rem 0
