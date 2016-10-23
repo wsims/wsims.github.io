@@ -331,6 +331,15 @@ html.touch .projectgrid a div:before{
   padding-bottom: 5%;
 }
 
+html {
+    box-sizing: border-box
+}
+
+*,*:before,*:after {
+    box-sizing: inherit;
+    t;
+}
+
 .project-overview {
     border-bottom: 1px solid #DFE0E8
 }
