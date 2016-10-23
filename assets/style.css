@@ -323,7 +323,7 @@ html.touch .projectgrid a div:before{
 }
 
 .project-overview {
-    border-bottom: 1px solid #DFE0E8
+/*    border-bottom: 1px solid #DFE0E8*/
 }
 
 .project-overview h4 {
@@ -364,4 +364,13 @@ html.touch .projectgrid a div:before{
         padding-right:0;
         box-shadow: -1px 0 0 #DFE0E8
     }
+}
+
+html {
+    box-sizing: border-box
+}
+
+*,*:before,*:after {
+    box-sizing: inherit;
+    t; 
 }
