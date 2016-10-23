@@ -154,7 +154,7 @@ a {
     opacity: .7;
 }
 
-.header a:hover,.header .nav a.active {
+.header a:hover,.header a.active {
     color: #212221;
     opacity: .9;
 }
