@@ -18,15 +18,6 @@
     src: url('RobotoMono-Regular.ttf');
 }
 
-html {
-    box-sizing: border-box
-}
-
-*,*:before,*:after {
-    box-sizing: inherit;
-    t;
-}
-
 h1 {
   font-family: "Roboto-Bold", sans-serif;
   font-size: 2rem;
@@ -378,4 +369,13 @@ html.touch .projectgrid a div:before{
     .project-role {
         padding-right:0;
     }
+}
+
+html {
+    box-sizing: border-box
+}
+
+*,*:before,*:after {
+    box-sizing: inherit;
+    t; 
 }
