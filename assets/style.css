@@ -144,12 +144,17 @@ a {
     display: inline-block;
 }
 
+.header a {
+  color: #212221;
+  opacity: .7;
+}
+
 .header a:visited {
     color: #212221;
     opacity: .7;
 }
 
-.header a:hover,.header a.active {
+.header a:hover{
     color: #212221;
     opacity: .9;
 }
