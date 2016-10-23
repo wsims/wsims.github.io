@@ -130,10 +130,12 @@ a {
 }
 
 .header .nav .logo a {
+    display: inline-block;
     float: left
 }
 
 .header .nav .links a {
+    display: inline-block;
     float: right
 }
 
