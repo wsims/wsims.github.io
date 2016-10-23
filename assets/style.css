@@ -160,7 +160,7 @@ a {
 }
 
 .header a.active:after {
-    color: #83869F;
+    color: #212221;
     content: '';
     width: 4px;
     height: 4px;
