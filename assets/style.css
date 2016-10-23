@@ -118,6 +118,15 @@ body {
     background: -o-linear-gradient(top,  rgba(244,244,244,1) 0%,rgba(241,241,241,1) 30%,rgba(234,234,234,0.88) 100%); /* Opera 11.10+ */
     background: -ms-linear-gradient(top,  rgba(244,244,244,1) 0%,rgba(241,241,241,1) 30%,rgba(234,234,234,0.88) 100%); /* IE10+ */
     background: linear-gradient(to bottom,  rgba(244,244,244,1) 0%,rgba(241,241,241,1) 30%,rgba(234,234,234,0.88) 100%); /* W3C */
+    transform: translate(0);
+    color: #212221;
+    opacity: .7;
+    display: block;
+    position: relative;
+    text-decoration: none;
+    font-family: "Roboto-Regular", sans-serif;
+    list-style: none;
+    margin-left: 1em;
 }
 
 a {
@@ -129,29 +138,25 @@ a {
 
 }
 
-.header .nav .logo a {
+.header .logo a {
     display: inline-block;
     float: left
 }
 
-.header .nav .links a {
+.header .nav a {
     display: inline-block;
     float: right
 }
 
-.header .nav li {
+/*.header .nav li {
     list-style: none;
     margin-left: 1em;
 }
+*/
 
 .header .nav a {
-    transform: translate(0);
-    color: #212221;
-    opacity: .7;
-    display: block;
-    position: relative;
-    text-decoration: none;
-    font-family: "Roboto-Regular", sans-serif;
+    float: right;
+    display: inline-block;
 }
 
 .header .nav a:visited {
