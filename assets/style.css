@@ -40,7 +40,8 @@ h2 {
   opacity: .9;
 }
 
-h3 {
+
+.project-overview h3 {
   font-family: "Roboto-Bold", sans-serif;
   font-size: 2rem;
   line-height: 1;
@@ -52,7 +53,8 @@ h3 {
   padding-top: 7%;
 }
 
-h4 {
+
+.project-overview  h4 {
   font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
   font-weight: normal;
@@ -71,7 +73,7 @@ h5 {
   font-weight: lighter;
 }
 
-/*p {
+.project-overview p {
   font-family: "Roboto-Regular", serif;
   color: #212221;
   opacity: .7;
