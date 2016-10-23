@@ -172,12 +172,13 @@ a {
 }
 
 .footer {
-    margin-bottom: 1em;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    display: block;
     box-sizing: border-box;
     font-size: 90%;
     padding-top: 15px;
     padding-bottom: 15px;
-    position: relative;
     width: 100%;
     font-family: "Roboto-Regular", serif;
 }
