@@ -133,7 +133,7 @@ a {
     float: left
 }
 
-.header .nav {
+.header .nav .links a {
     float: right
 }
 
