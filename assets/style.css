@@ -312,3 +312,29 @@ html.touch .projectgrid a div{
 html.touch .projectgrid a div:before{
 	display:none;
 }
+
+
+.project-info {
+    padding: 1.6rem 0
+}
+
+@media only screen and (min-width: 560px) {
+    .project-info {
+        width:50%;
+        float: left;
+        padding: 1.8em
+    }
+}
+
+@media only screen and (max-width: 559px) {
+    .project-challenge {
+        padding-bottom:0
+    }
+}
+
+@media only screen and (min-width: 560px) {
+    .project-challenge {
+        border-right:1px solid #DFE0E8;
+        padding-left: 0
+    }
+}
