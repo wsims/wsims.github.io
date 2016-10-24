@@ -18,6 +18,11 @@
     src: url('RobotoMono-Regular.ttf');
 }
 
+@font-face{
+    font-family: "Montserrat-Bold";
+    src: url('Montserrat-Bold.ttf');
+}
+
 h1 {
   font-family: "Roboto-Bold", sans-serif;
   font-size: 2rem;
@@ -123,11 +128,11 @@ body {
     display: block;
     position: relative;
     text-decoration: none;
-    font-family: "Roboto-Bold", sans-serif;
+    font-family: "Montserrat-Bold", sans-serif;
     list-style: none;
     padding-top: 1.5%;
     padding-bottom: 1.5%;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
     font weight: 600;
 }
 
