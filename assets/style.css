@@ -181,7 +181,7 @@ header a.active:after {
 }
 
 .footer {
-    position: absolute;
+    position: relative;
     bottom: 0px;
     display: block;
     box-sizing: border-box;
