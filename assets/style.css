@@ -72,7 +72,7 @@ h2 {
 h5 {
   font-family: "Roboto-Regular", serif;
   color: #212221;
-  opacity: .7;
+  opacity: .6;
   font-size: 13px;
   font-weight: lighter;
 }
@@ -153,12 +153,12 @@ a {
 
 .header a {
   color: #212221;
-  opacity: .7;
+  opacity: .6;
 }
 
 .header a:visited {
     color: #212221;
-    opacity: .7;
+    opacity: .6;
 }
 
 .header a:hover{
