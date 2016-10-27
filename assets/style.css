@@ -313,12 +313,13 @@ i.fa-file-pdf-o:hover {
   opacity: .7;
   font-size: 14px;
   font-weight: normal;
+  line-height: 1.4;
 }
 
 .content h5{
   font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
-  font-weight: 600;
+  font-weight: normal;
   margin: 0.66667rem 0 0.33333rem;
   text-align: center;
   font-size: 100%;
