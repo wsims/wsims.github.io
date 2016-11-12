@@ -316,6 +316,15 @@ i.fa-file-pdf-o:hover {
   line-height: 1.4;
 }
 
+.content ul li{
+  font-family: "Roboto-Regular", serif;
+  color: #212221;
+  opacity: .7;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.4;
+}
+
 .content h5{
   font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
