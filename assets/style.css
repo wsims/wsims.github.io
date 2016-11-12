@@ -372,10 +372,6 @@ html.touch .projectgrid a div:before{
     box-sizing: border-box;
 }
 
-.project-overview h4 {
-    margin-bottom: 0.5em
-}
-
 .project-overview p {
     line-height: 1.4
 }
