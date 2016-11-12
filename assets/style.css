@@ -214,6 +214,10 @@ header a.active:after {
     padding-top: 8px;
 }
 
+.footer a {
+    text-decoration: none;
+}
+
 i.fa {
   color: #212221;
   opacity: 0.7;
@@ -224,7 +228,6 @@ i.fa {
 i.fa:hover {
   color: #212221;
   opacity: .9;
-  text-decoration: none;
 }
 
 i.fa-file-pdf-o {
