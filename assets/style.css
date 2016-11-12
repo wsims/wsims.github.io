@@ -69,6 +69,17 @@ h2 {
   padding-top:1.8rem;
 }
 
+.project-overview  h4 {
+  font-family: "Roboto Mono", monospace;
+  font-size: 0.66667rem;
+  font-weight: bold;
+  margin: 0.66667rem 0 0.33333rem;
+  font-size: 140%;
+  color: #212221;
+  opacity: .9;
+  padding-top:1.8rem;
+}
+
 h5 {
   font-family: "Roboto-Regular", serif;
   color: #212221;
