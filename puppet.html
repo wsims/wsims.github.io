@@ -50,6 +50,18 @@
                   <li>Find usability issues and areas for improvement to influence the future direction of the installer.</li>
                 </ul>
           </div>
+          <h4>Usability Issues</h4>
+          <p>To successfully install Puppet Enterprise, the user needs to set a console admin in the installer configuration file. Our findings showed that users were unaware they needed to set a password and the error message thrown was ineffective for troubleshooting the issue.</p>
+          <p>&nbsp;</p>
+          <p>This this the error message that is displayed when there is a missing console admin password in the configuration file. Users interpreted the message as an issue with curly braces on line 33.</p>
+          <img style='width: 75%; margin: auto; object-fit: contain' src="assets/installer1.png"/>
+          <p>When participants reviewed the configuration file, they would ignore the “console_admin_password” field to focus on the formatting of line 33. Participants were unable to troubleshoot this error message unless prompted that it is unrelated to formatting.</p>
+          <img style='width: 75%; margin: auto; object-fit: contain' src="assets/installer2.png"/>
+          <h4>Solutions</h4>
+          <p>My findings resulted in the error message being redesigned to improve clarity when troubleshooting a missing console admin passoword.
+          <img style='width: 75%; margin: auto; object-fit: contain' src="assets/installer3.png"/>
+
+
         </div>
       </div>
 
