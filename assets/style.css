@@ -369,12 +369,12 @@ html.touch .projectgrid a div:before{
   padding-top: 5%;
 }
 
-.project-overview2 *,*:before,*:after {
+.project-overview *,*:before,*:after {
     box-sizing: inherit;
     t;
 }
 
-.project-overview2 {
+.project-overview {
     box-sizing: border-box;
 }
 
