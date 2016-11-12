@@ -352,6 +352,7 @@ html.touch .projectgrid a div:before{
   margin: 0 auto;
   padding-top: 5%;
   padding-bottom: 5%;
+  display: block;
 }
 
 .project-overview *,*:before,*:after {
