@@ -402,11 +402,13 @@ html.touch .projectgrid a div:before{
 @media only screen and (min-width: 560px) {
     .project-challenge {
         padding-left: 0
+        padding-bottom:0;
     }
 }
 
 @media only screen and (min-width: 560px) {
     .project-role {
         padding-right:0;
+        padding-bottom:0;
     }
 }
