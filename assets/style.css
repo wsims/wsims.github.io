@@ -85,6 +85,14 @@ h5 {
   font-weight: normal;
 }
 
+ul li {
+  font-family: "Roboto-Regular", serif;
+  color: #212221;
+  opacity: .7;
+  font-size: 14px;
+  font-weight: normal;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -352,6 +360,7 @@ html.touch .projectgrid a div:before{
   margin: 0 auto;
   padding-top: 5%;
   padding-bottom: 5%;
+  display: block;
 }
 
 .project-overview *,*:before,*:after {
