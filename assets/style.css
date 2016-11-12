@@ -224,6 +224,7 @@ i.fa {
 i.fa:hover {
   color: #212221;
   opacity: .9;
+  text-decoration: none;
 }
 
 i.fa-file-pdf-o {
