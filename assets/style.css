@@ -147,7 +147,6 @@ body {
 
 a {
   color: inherit;
-  text-decoration: none;
 }
 
 .header .logo a {
@@ -164,16 +163,19 @@ a {
 .header a {
   color: #212221;
   opacity: .6;
+  text-decoration: none;
 }
 
 .header a:visited {
     color: #212221;
     opacity: .6;
+    text-decoration: none;
 }
 
 .header a:hover{
     color: #212221;
     opacity: .9;
+    text-decoration: none;
 }
 
 header a.active:after {
@@ -376,9 +378,25 @@ html.touch .projectgrid a div:before{
     line-height: 1.4
 }
 
+.project-overview a {
+  color: #212221;
+  opacity: .95;
+}
+
+.project-overview a:visited {
+    color: #212221;
+    opacity: .95;
+}
+
+.project-overview a:hover{
+    color: #212221;
+    opacity: .6;
+}
+
 .project-info {
   padding: 1.6rem 0;
 }
+
 
 @media only screen and (min-width: 560px) {
     .project-info {
