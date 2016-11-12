@@ -381,26 +381,25 @@ html.touch .projectgrid a div:before{
 }
 
 .project-info {
-    padding: 1.6rem 0
+/*    padding: 1.6rem 0*/
 }
 
 @media only screen and (min-width: 560px) {
     .project-info {
         width:50%;
         float: left;
-        padding: 1.8em;
     }
 }
 
 @media only screen and (max-width: 559px) {
     .project-challenge {
-        padding-bottom:0
+        padding-bottom:0;
     }
 }
 
 @media only screen and (min-width: 560px) {
     .project-challenge {
-        padding-left: 0
+        padding-left: 0;
     }
 }
 
