@@ -43,7 +43,7 @@
   			      <h4>The Challenge</h4>
                 <p>Over the summer I worked as a UX intern at <a href="https://puppet.com/">Puppet</a>. Puppet is a company makes IT automation software for managing and securing your infrastructure.</p>
                 <p>My main intern project was to develop and conduct a usability benchmarking study for measuring the ease of use of Puppet products.</p> </div>
-                
+
           <div class="project-info project-role">
     			     <h4>Goals</h4>
                     <ul>
@@ -64,12 +64,15 @@
             <p><strong>Hurdles:</strong> One issue we found during testing is that error scores did not accurately represent the usability of a task due to the complexity of Puppet Enterprise and number of potential paths.</p>
             <p>If a participant chooses the wrong path, then every subsequent action creates a new error opportunity. Since the number of error opportunities directly influences SUM, scores may be inflated because we happened to record a large number of error opportunities for a certain task. Due to this problem, I made the decision to remove errors from the SUM calculation because it didn’t make sense for such a complex product. That being said, it is still very beneficial to record errors that participants encounter because it targets specific usability issues.</p>
             <p><strong>Specific Usability Issues:</strong> Due to my non-disclosure agreement, I cannot share the specific scores that were obtained during the usability benchmarking sessions. However, since the version of Puppet that was used for testing is now live I can share some of the usability issues encountered that led to tickets being filed:</p>
+            <p>&nbsp;</p>
             <p>When installing, nearly all users thought that the Puppet master hostname would used automatically if the textbox was left blank. As a result, users attempted to continue installation and were shown the notification below.</p>
             <img style='width: 75%; margin: auto; object-fit: contain' src="assets/puppet_fqdn.png"/>
             <p>A potential solution that was included in the ticket description was to pre-populate the textbox with the domain name since there is only one valid hostname for the installation.</p>
+            <p>&nbsp;</p>
             <p>After installing a module as part of one of the tasks, users needed to refresh their class definitions in order to use the module. There is nothing in the UI to indicate that class definitions need to be refreshed so this step was overlooked.</p>
             <img style='width: 75%; margin: auto; object-fit: contain' src="assets/puppet_class_defs.png"/>
             <p>The solution that I recommended was to refresh class definitions automatically whenever code is deployed to install a module.</p>
+            <p>&nbsp;</p>
             <p><strong>Future Iterations:</strong> Unmoderated testing appeared to be the most promising method for continuing benchmarking in the future because you are able to gather more data by measuring participants without dedicated researchers, you can test many different areas of the product by creating short tasks that only involve a specific part of the workflow, and you can eliminate participant fatigue by reducing each test session to 15 minutes.</p>
             <p>The results also showed that the tasks should be modified to be more independent of one another so failing one task doesn’t affect your performance on the next. I suggested that it may be beneficial to look into users completing tasks using their personal infrastructures as a testing environment.</p>
             <h4>Takeaways</h4>
