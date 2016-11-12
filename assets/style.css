@@ -66,7 +66,6 @@ h2 {
   font-size: 100%;
   color: #212221;
   opacity: .9;
-  padding-top: 1.8em;
 }
 
 h5 {
@@ -389,34 +388,24 @@ html.touch .projectgrid a div:before{
     .project-info {
         width:50%;
         float: left;
-        padding: 1.8em;
+        padding: 1.8em
     }
 }
 
 @media only screen and (max-width: 559px) {
     .project-challenge {
-        padding-bottom:0;
+        padding-bottom:0
     }
 }
-
-
-@media only screen and (max-width: 559px) {
-    .project-role {
-        padding-bottom:0;
-    }
-}
-
 
 @media only screen and (min-width: 560px) {
     .project-challenge {
-        padding-left:0;
-        padding-bottom:0;
+        padding-left: 0
     }
 }
 
 @media only screen and (min-width: 560px) {
     .project-role {
         padding-right:0;
-        padding-bottom:0;
     }
 }
