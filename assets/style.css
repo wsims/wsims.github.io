@@ -68,12 +68,13 @@ h2 {
   opacity: .9;
 }
 
-h5 {
+.project-overview h5 {
   font-family: "Roboto-Regular", serif;
   color: #212221;
   opacity: .6;
   font-size: 13px;
   font-weight: lighter;
+  text-align: left;
 }
 
 .project-overview p {
