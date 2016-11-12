@@ -65,6 +65,15 @@
             <p><strong>Specific Usability Issues:</strong> Due to my non-disclosure agreement, I cannot share the specific scores that were obtained during the usability benchmarking sessions. However, since the version of Puppet that was used for testing is now live I can share some of the usability issues encountered that led to tickets being filed:</p>
             <p>When installing, nearly all users thought that the Puppet master hostname would used automatically if the textbox was left blank. As a result, users attempted to continue installation and were shown the notification below.</p>
             <img style='width: 75%; margin: auto; object-fit: contain' src="assets/puppet_fqdn.png"/>
+            <p>A potential solution that was included in the ticket description was to pre-populate the textbox with the domain name since there is only one valid hostname for the installation.</p>
+            <p>After installing a module as part of one of the tasks, users needed to refresh their class definitions in order to use the module. There is nothing in the UI to indicate that class definitions need to be refreshed so this step was overlooked.</p>
+            <img style='width: 75%; margin: auto; object-fit: contain' src="assets/puppet_class_defs.png"/>
+            </p>The solution that I recommended was to refresh class definitions automatically whenever code is deployed to install a module.</p>
+            <p><strong>Future Iterations:</strong> Unmoderated testing appeared to be the most promising method for continuing benchmarking in the future because you are able to gather more data by measuring participants without dedicated researchers, you can test many different areas of the product by creating short tasks that only involve a specific part of the workflow, and you can eliminate participant fatigue by reducing each test session to 15 minutes.</p>
+            <p>The results also showed that the tasks should be modified to be more independent of one another so failing one task doesn’t affect your performance on the next. I suggested that it may be beneficial to look into users completing tasks using their personal infrastructures as a testing environment.</p>
+            <h4>Takeaways</h4>
+            <p>The highlight of this research was that usability benchmarking with the Single Usability Metric was effective for measuring how well users can complete workflows in Puppet Enterprise and the results provided a reference point that can be measured against in the future.</p>
+            <p>Overall, I was happy with the results of the study and the UX team at Puppet will continue to use methodology I developed for usability benchmarking in the future. I learned a great deal about how to take an entire product and split it up into parts that can be measured to provide the most customer value. Through testing and collaboration with members of the UX team, I was able to iterate on areas of my benchmarking methodology to provide a better solution.</p>
         </div>
       </div>
     </div>
@@ -83,8 +92,8 @@
               <a href="https://www.github.com/wsims/" alt="GitHub">
                 <i class="fa fa-github"></i>
               </a>
-              <a href="https://soundcloud.com/whosgrim" alt="Soundcloud">
-                <i class="fa fa-soundcloud"></i>
+              <a href="https://open.spotify.com/user/129745423" alt="Spotify">
+                <i class="fa fa-spotify"></i>
             </div>
         </div>
       </footer>
