@@ -51,7 +51,7 @@ h2 {
   font-size: 2rem;
   line-height: 1;
   margin: 0 0 0.66667rem;
-  text-align: center;
+  text-align: left;
   font-size: 220%;
   color: #212221;
   opacity: .9;
@@ -63,7 +63,7 @@ h2 {
   font-size: 0.66667rem;
   font-weight: normal;
   margin: 0.66667rem 0 0.33333rem;
-  text-align: center;
+  text-align: left;
   font-size: 100%;
   color: #212221;
   opacity: .9;
@@ -316,21 +316,13 @@ i.fa-file-pdf-o:hover {
   line-height: 1.4;
 }
 
-.content ul li{
-  font-family: "Roboto-Regular", serif;
-  color: #212221;
-  opacity: .7;
-  font-size: 14px;
-  font-weight: normal;
-  line-height: 1.4;
-}
-
 .content h5{
+  display: block;
   font-family: "Roboto Mono", monospace;
   font-size: 0.66667rem;
   font-weight: normal;
   margin: 0.66667rem 0 0.33333rem;
-  text-align: center;
+  text-align: left;
   font-size: 100%;
   color: #212221;
   opacity: .9;
