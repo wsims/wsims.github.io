@@ -395,12 +395,14 @@ html.touch .projectgrid a div:before{
 
 .project-overview a {
   color: #212221;
-  opacity: .95;
+  opacity: .90;
+  font-weight: bold;
 }
 
 .project-overview a:visited {
     color: #212221;
-    opacity: .95;
+    opacity: .90;
+    font-weight: bold;
 }
 
 .project-overview a:hover{
