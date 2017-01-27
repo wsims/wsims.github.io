@@ -136,7 +136,8 @@ body {
     font-weight: 500;
     line-height: 1.6rem;
     margin:0;
-    /*box-shadow: 0 1px 0 rgba(0,0,0,0.1);*/
+    box-shadow: 0 1px 0 rgba(0,0,0,0.1);
+    background-color: #EEE
     width: 100%;
     overflow: auto;
     transform: translate(0);
