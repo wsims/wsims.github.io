@@ -139,7 +139,7 @@ body {
     /*box-shadow: 0 1px 0 rgba(0,0,0,0.1);*/
     width: 100%;
     overflow: auto;
-    background: #EEEEEE;
+    background-color: #EEEEEE;
     display: block;
     position: relative;
     text-decoration: none;
