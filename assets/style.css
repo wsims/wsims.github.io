@@ -355,13 +355,13 @@ i.fa-file-pdf-o:hover {
 }
 
 .projectgrid a:hover div{
-	opacity: 0.8;
+	opacity: 0.95;
 	bottom: 0;
 }
 
 /* Show thumbnail descriptions all the time for touch devices */
 html.touch .projectgrid a div{
-	opacity: 0.8;
+	opacity: 0.95;
 	bottom: 0;
 }
 /* Show thumbnail descriptions all the time for touch devices */
