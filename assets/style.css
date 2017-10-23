@@ -251,11 +251,11 @@ i.fa-file-pdf-o:hover {
 
 .projectgrid {
 	display: block;
-	margin: 0;
+	margin: 0 auto;
 	min-height:200px;
-  padding-right: 100px;
-  padding-left: 100px;
-  text-align: center;
+  padding-right: 15%;
+  padding-left: 15%;
+  text-align: left;
 }
 
 .projectgrid li {
